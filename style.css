@@ -121,7 +121,6 @@ body {
 
 .links {
     bottom: -90px;
-
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
     padding: 10px 40px;
@@ -201,10 +200,7 @@ body {
     text-align: center;
 }
 
-.footer p {
-    bottom: -1200px;
-    text-align: center;
-}
+
 
 .flexible-containerone {
     display: flex;
@@ -215,12 +211,9 @@ body {
     position: absolute;
     bottom: -1000px;
     right: 120px;
-
-
     padding-left: 5px;
     padding-right: 5px;
     text-align: center;
-
     width: 50%;
     padding-left: 10%;
 }
@@ -229,12 +222,81 @@ body {
     position: absolute;
     bottom: -1000px;
     left: 120px;
-
-
     padding-left: 5px;
     padding-right: 5px;
     text-align: center;
-
     width: 25%;
     padding-left: 10%;
+}
+
+.half-widthss {
+    position: absolute;
+    bottom: -1200px;
+    left: 120px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+    width: 50%;
+    padding-left: 15%;
+}
+
+.gmail {
+    display: flex;
+    background-color: plum;
+    bottom: -1300px;
+
+
+}
+
+.linksss {
+
+
+    bottom: -1300px;
+    text-decoration: none;
+    background-image: linear-gradient(rgb(209, 205, 197), tomato);
+    padding: 10px 40px;
+    color: rgb(14, 0, 0);
+    font-weight: 700;
+    border-radius: 20px;
+    text-align: center;
+    font-size: medium;
+}
+
+.linkss {
+
+    bottom: -1300px;
+    text-decoration: none;
+    background-image: linear-gradient(rgb(119, 1, 1), rgb(247, 44, 8));
+    padding: 10px 40px;
+    color: rgb(14, 0, 0);
+    font-weight: 700;
+    border-radius: 20px;
+    text-align: center;
+    font-size: medium;
+}
+
+.footer {
+    background-color: black;
+    position: absolute;
+    left: 300px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+    width: 55%;
+    padding-left: 0%;
+    bottom: -1400px;
+    text-align: center;
+}
+
+.foot {
+    color: rgb(245, 8, 8);
+    width: 50%;
+    font-size: smaller;
+    text-align: center;
+}
+
+.foots {
+    color: white;
+    width: 50%;
+    font-size: smaller;
 }
