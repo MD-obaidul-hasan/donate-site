@@ -300,3 +300,17 @@ body {
     width: 50%;
     font-size: smaller;
 }
+
+.half-widthsss {
+    position: absolute;
+    bottom: -1250px;
+    left: 280px;
+    padding-top: ;
+    padding-left: 45px;
+    padding-right: 45px;
+    text-align: center;
+    width: 50%;
+    padding-left: 5%;
+    background-color: papayawhip;
+
+}
