@@ -19,7 +19,6 @@ body {
     bottom: 100px;
     right: 30px;
     color: white;
-
     padding-left: 50px;
     padding-right: 50px;
     text-align: center;
@@ -60,7 +59,6 @@ body {
 }
 
 .flexible-containers {
-
     display: flex;
     margin-bottom: 150px;
     position: absolute;
@@ -68,7 +66,6 @@ body {
     width: 50%;
     padding-left: 350px;
     padding-right: 350px;
-
 }
 
 .taka {
@@ -106,7 +103,6 @@ body {
 }
 
 .donates {
-
     position: inherit;
     bottom: -50px;
     right: 3px;
@@ -115,8 +111,6 @@ body {
     padding-left: 350px;
     padding-right: 350px;
     text-align: center;
-
-
 }
 
 .links {
@@ -142,7 +136,6 @@ body {
     text-align: center;
 }
 
-
 .box {
     width: 60%;
     bottom: -680px;
@@ -155,7 +148,6 @@ body {
     margin-right: 250px;
     margin-block-end: 35px;
     border-radius: 50px;
-
 }
 
 .serviceone {
@@ -188,7 +180,6 @@ body {
     background-color: rgb(204, 238, 10);
 }
 
-
 .donate {
     position: inherit;
     bottom: 50px;
@@ -199,8 +190,6 @@ body {
     padding-right: 350px;
     text-align: center;
 }
-
-
 
 .flexible-containerone {
     display: flex;
@@ -244,13 +233,9 @@ body {
     display: flex;
     background-color: plum;
     bottom: -1300px;
-
-
 }
 
 .linksss {
-
-
     bottom: -1300px;
     text-decoration: none;
     background-image: linear-gradient(rgb(209, 205, 197), tomato);
@@ -263,7 +248,6 @@ body {
 }
 
 .linkss {
-
     bottom: -1300px;
     text-decoration: none;
     background-image: linear-gradient(rgb(119, 1, 1), rgb(247, 44, 8));
@@ -289,6 +273,7 @@ body {
 }
 
 .foot {
+    font-family: 'Signika Negative', sans-serif;
     color: rgb(245, 8, 8);
     width: 50%;
     font-size: smaller;
@@ -312,5 +297,4 @@ body {
     width: 50%;
     padding-left: 5%;
     background-color: papayawhip;
-
 }
